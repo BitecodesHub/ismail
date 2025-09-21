@@ -13,7 +13,7 @@ export const myProjects = [
     ],
     href: "https://bitecodes.com",
     logo: "",
-    image: "/assets/projects/bitecodes-academy.jpg",
+    image: "/assets/projects/bitecodes.png",
     tags: [
       {
         id: 1,
@@ -50,7 +50,7 @@ export const myProjects = [
     ],
     href: "https://conceptserve.com/case-parking-management",
     logo: "",
-    image: "/assets/projects/pms.jpg",
+    image: "/assets/projects/pms.png",
     tags: [
       {
         id: 1,
@@ -92,7 +92,7 @@ export const myProjects = [
     ],
     href: "https://smartaipark.com",
     logo: "",
-    image: "/assets/projects/smart-ai-park.jpg",
+    image: "/assets/projects/pms.png",
     tags: [
       {
         id: 1,
@@ -134,7 +134,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/bitecodes-platform.jpg",
+    image: "/assets/projects/bitecodes.png",
     tags: [
       {
         id: 1,
@@ -171,7 +171,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/django-apps.jpg",
+    image: "/assets/projects/django.png",
     tags: [
       {
         id: 1,
@@ -208,7 +208,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/microservices.jpg",
+    image: "/assets/projects/conceptserve.png",
     tags: [
       {
         id: 1,
