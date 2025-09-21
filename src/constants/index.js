@@ -237,7 +237,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/9428767709",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
@@ -247,7 +247,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ismail62/",
+    href: "https://www.instagram.com/itz.ismail_62/",
     icon: "/assets/socials/instagram.svg",
   },
   {
